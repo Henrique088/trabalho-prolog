@@ -69,7 +69,8 @@ pip install openpyxl
 
 ```
 
-## Como rodar a aplicação
+## Como rodar a aplicação :arrow_forward:
+
 
 No terminal, clone o projeto: 
 
@@ -83,4 +84,3 @@ Depois abra o terminal dentro da pasta do arquivo e digite o comando:
 python3 main.py
 
 ```
-Lembre-se
